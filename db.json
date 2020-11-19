@@ -7,11 +7,11 @@
     "rotation": 1800
   },
   "pollQuestions": [
-    { id: 1, "question": "Kuruluk seviyesi iyi" },
-    { id: 2, "question": "Kırışıklık seviyesi iyi" },
-    { id: 3, "question": "Çamaşırlar temiz kokuyor" },
-    { id: 4, "question": "Zamanında bitti" },
-    { id: 5, "question": "Deterjan kalıntısı yok" },
-    { id: 6, "question": "Çamaşırda küçülme yok" }
+    { "id": 1, "question": "Kuruluk seviyesi iyi" },
+    { "id": 2, "question": "Kırışıklık seviyesi iyi" },
+    { "id": 3, "question": "Çamaşırlar temiz kokuyor" },
+    { "id": 4, "question": "Zamanında bitti" },
+    { "id": 5, "question": "Deterjan kalıntısı yok" },
+    { "id": 6, "question": "Çamaşırda küçülme yok" }
   ]
 }
