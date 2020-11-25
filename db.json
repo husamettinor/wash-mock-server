@@ -15,7 +15,7 @@
     { "id": 6, "question": "Çamaşırda küçülme yok" }
   ],
   "pollDetail": {
-    "washingId": "1",
+    "washingId": 1,
     "questions": [
         {
             "questionKey": "USER_LIKE_DRYING",
