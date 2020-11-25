@@ -14,7 +14,7 @@
     { "id": 5, "question": "Deterjan kalıntısı yok" },
     { "id": 6, "question": "Çamaşırda küçülme yok" }
   ],
-  "questions": {
+  "pollDetail": {
     "washingId": "1",
     "questions": [
         {
