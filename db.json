@@ -21,37 +21,37 @@
             "questionKey": "USER_LIKE_DRYING",
             "questionType": "LIKE_DISLIKE",
             "questionPage": 1,
-            "questionText": "Kuruluk seviyesi iyi",
+            "questionText": "Kuruluk seviyesi iyi"
         },
         {
             "questionKey": "USER_LIKE_WRINKLE",
             "questionType": "LIKE_DISLIKE",
             "questionPage": 1,
-            "questionText": "Kırışıklık seviyesi iyi",
+            "questionText": "Kırışıklık seviyesi iyi"
         },
         {
             "questionKey": "USER_LIKE_SMELL",
             "questionType": "LIKE_DISLIKE",
             "questionPage": 1,
-            "questionText": "Çamaşırlar temiz kokuyor",
+            "questionText": "Çamaşırlar temiz kokuyor"
         },
         {
             "questionKey": "USER_LIKE_TIME",
             "questionType": "LIKE_DISLIKE",
             "questionPage": 1,
-            "questionText": "Zamanında bitti",
+            "questionText": "Zamanında bitti"
         },
         {
             "questionKey": "USER_LIKE_WASHING",
             "questionType": "LIKE_DISLIKE",
             "questionPage": 1,
-            "questionText": "Deterjan kalıntısı yok",
+            "questionText": "Deterjan kalıntısı yok"
         },
         {
             "questionKey": "NO_SHRANK",
             "questionType": "LIKE_DISLIKE",
             "questionPage": 1,
-            "questionText": "Çamaşırda küçülme yok",
+            "questionText": "Çamaşırda küçülme yok"
         }
     ]
   }
