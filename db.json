@@ -13,7 +13,7 @@
     { "id": 4, "question": "Zamanında bitti" },
     { "id": 5, "question": "Deterjan kalıntısı yok" },
     { "id": 6, "question": "Çamaşırda küçülme yok" }
-  ]
+  ],
   "questions": {
     "washingId": "1",
     "questions": [
@@ -54,5 +54,5 @@
             "questionText": "Çamaşırda küçülme yok",
         }
     ]
-}
+  }
 }
